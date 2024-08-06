@@ -1,0 +1,84 @@
+body {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+}
+
+@font-face {
+    font-family: CodeLight;
+    src: url(Fonts/Code-Light.woff);
+}
+
+h2 {
+    font-family: CodeLight, sans-serif;
+}
+
+.product-bg-1 {
+    background-image: url(Images/lady-1.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.product-bg-2 {
+    background-image: url(Images/lady-2.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.product-bg-3 {
+    background-image: url(Images/lady-3.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.product-bg-4 {
+    background-image: url(Images/lady-4.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+   
+.product-bg-5 {
+    background-image: url(Images/lady-5.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+   
+.product-bg-6 {
+    background-image: url(Images/lady-6.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+   
+.product-bg-7 {
+    background-image: url(Images/lady-7.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+   
+.product-bg-8 {
+    background-image: url(Images/lady-8.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+   
+.product-bg-9 {
+    background-image: url(Images/lady-9.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+   
+.product-bg-10 {
+    background-image: url(Images/lady-10.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.homepage-slider-wrap {
+    background-image: url(Images/background.png);
+}
+
+.header-top-area a {
+    color: #6f5572;
+}
+
+.header-top-area {
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+}
